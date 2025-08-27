@@ -79,7 +79,7 @@ coverage.xml
 celerybeat-schedule.*
 # SageMath parsed files
 *.sage.py
-# Environments
+# Environment
 .env*
 !.env.example*
 .venv
